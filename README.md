@@ -1,12 +1,12 @@
 ### Oiii! Eu sou a Ruth 👋
 <p>
 
-  - 🌱 Estudante de TI />
-  - 👨‍💻 Desenvolvedora web Full Stack certificada.
-  - ⚡ Apaixonada por tecnologia, educação e por mudar a vida de crianças através da programação.
+  - 🌱 Graduated in IT />
+  - 👨‍💻 Certified Full Stack web developer.
+  - ⚡ Passionate about technology, education and changing children's lives through programming.
 </p>
 
-<h1>Tecnologias que uso no meu dia</h1>
+<h1>Technologies I use in my day</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
