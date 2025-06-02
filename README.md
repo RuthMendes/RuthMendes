@@ -1,4 +1,4 @@
-### Oiii! Eu sou a Ruth 👋
+### Helloo! I'm Ruth 👋
 <p>
 
   - 🌱 Graduated in IT />
